@@ -1,0 +1,5 @@
+theme = rose-pine
+font-family = "JetBrainsMono Nerd Font"
+window-padding-balance = true
+window-padding-color = extend
+background-opacity = 0.9
